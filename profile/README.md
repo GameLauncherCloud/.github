@@ -5,6 +5,10 @@
 <img width="2800" height="720" alt="GameLauncherCloud_Large" src="https://github.com/user-attachments/assets/470938b5-fd0a-4a05-bedb-f0392e01a683" />
 
 **The Next-Generation Cloud-Based Game Distribution Platform**
+<br>
+Design professional game launchers in minutes
+<br>
+𝘈𝘭𝘭 𝘪𝘯 𝘰𝘯𝘦. 𝘕𝘰 𝘤𝘰𝘥𝘪𝘯𝘨. 𝘍𝘰𝘳 𝘢𝘯𝘺 𝘦𝘯𝘨𝘪𝘯𝘦. 𝘍𝘰𝘳 𝘢𝘯𝘺 𝘨𝘢𝘮𝘦.
 
 [![Website](https://img.shields.io/badge/Website-gamelauncher.cloud-blue?style=for-the-badge&logo=internet-explorer)](https://gamelauncher.cloud/)
 [![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)](https://gamelauncher.cloud/)
