@@ -2,7 +2,7 @@
 
 # Game Launcher Cloud
 
-<img width="2800" height="720" alt="GameLauncherCloud_Large" src="https://github.com/user-attachments/assets/470938b5-fd0a-4a05-bedb-f0392e01a683" />
+<img width="2800" height="720" alt="Game Launcher - Full Logo with Background" src="https://github.com/user-attachments/assets/75ddbeed-4670-483f-96cb-2e7097dd3468" />
 
 Create custom game launchers in minutes
 **All in one. No coding. For any engine. For any game.**
