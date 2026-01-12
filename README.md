@@ -2,9 +2,10 @@
 
 # Game Launcher Cloud
 
-<img width="2800" height="720" alt="GameLauncherCloud_Large" src="https://github.com/user-attachments/assets/470938b5-fd0a-4a05-bedb-f0392e01a683" />
+[<img width="2800" height="720" alt="Game Launcher - Full Logo with Background" src="https://github.com/user-attachments/assets/75ddbeed-4670-483f-96cb-2e7097dd3468" />](https://gamelauncher.cloud/)
 
 Create custom game launchers in minutes
+
 **All in one. No coding. For any engine. For any game.**
 
 **The Next-Generation Custom Game Launcher Creator Platform**
@@ -17,6 +18,21 @@ _Empowering private server owners and indie developers to create professional ga
 
 
 </div>
+
+## EXTENSIONS
+
+[<img width="84" height="30.4" alt="Unity" src="https://github.com/user-attachments/assets/e8bbae73-90b3-468b-8fb0-e28fcbd1e203" />](https://assetstore.unity.com/packages/tools/utilities/game-launcher-cloud-manager-for-unity-245359)
+
+Unity Extension: [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/game-launcher-cloud-manager-for-unity-245359)
+
+[<img width="60.2" height="68.6" alt="Unreal Engine" src="https://github.com/user-attachments/assets/620d92e2-ed24-480c-938a-251f3a1eb561" />](https://www.fab.com/listings/af88972c-9d69-42cd-bcaa-109bb8dd31c6)
+
+Unreal Engine Extension: [Unreal Engine Marketplace](https://www.fab.com/listings/af88972c-9d69-42cd-bcaa-109bb8dd31c6)
+
+<img width="102" height="41" alt="logo_large_color_dark" src="https://github.com/user-attachments/assets/1c9362a5-9523-47c9-b679-11d65087acfc" />
+
+
+Godot Engine Extension: [Godot Engine Asset Library](https://godotengine.org/asset-library/asset/4663)
 
 ---
 
